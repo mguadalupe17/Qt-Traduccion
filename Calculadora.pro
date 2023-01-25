@@ -27,7 +27,8 @@ FORMS += \
 
 TRANSLATIONS += \
     Calculadora_fr_FR.ts \
-    Calculadora_en.ts
+    Calculadora_en.ts \
+    Calculadotra_al.ts
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
